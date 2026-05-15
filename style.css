@@ -143,6 +143,11 @@ nav{
     padding-top: 20px;
 }
 
+.large-container{
+    padding-left: 7%;
+    padding-right: 2%;
+}
+
 .banner{
     width: 100%;
 }
@@ -173,8 +178,13 @@ nav{
 .vid-info{
     color: #5a5a5a;
     font-size: 13px;
+    
 }
 
 .vid-info a{
     color: #000;
+    font-weight: 600;
+    display: block;
+    margin-top: 5px;
+
 }
